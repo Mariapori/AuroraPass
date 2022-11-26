@@ -1,5 +1,5 @@
 [package]
-name = "AuroraPass"
+name = "aurorapass"
 version = "0.1.0"
 edition = "2021"
 

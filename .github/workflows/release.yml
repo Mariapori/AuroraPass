@@ -19,5 +19,5 @@ jobs:
     - name: Release
       uses: fnkr/github-action-ghr@v1
       env:
-        GHR_PATH: target/debug/AuroraPass
+        GHR_PATH: target/debug/aurorapass
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
