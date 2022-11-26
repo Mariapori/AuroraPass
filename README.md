@@ -5,8 +5,8 @@ Small program to generate secure random password
 
 
 ## Usage
-./AuroraPass
+./aurorapass
 
 or
 
-./AuroraPass 5
+./aurorapass 5
